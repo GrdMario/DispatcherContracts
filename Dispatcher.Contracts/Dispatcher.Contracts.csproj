@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>Dispatcher.Contracts</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>mario</Authors>
+    <Company>mario</Company>
+    <PackageDescription>Contracts for dispatcher app</PackageDescription>
+    <RepositoryUrl>https://github.com/GrdMario/DispatcherContracts</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
